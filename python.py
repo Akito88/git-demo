@@ -1,5 +1,3 @@
-a = 5
-b = 2
-if(a > b):
-
-	print("Hello Python Programmer!")
+def sum(a,b):
+	print(a + b)
+sum(5,10)
